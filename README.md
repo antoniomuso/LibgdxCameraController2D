@@ -1,2 +1,2 @@
 # LibgdxCameraController2D
-Simple camera controller for movement of camera in 2D world for Libgdx FrameWork
+Simple camera controller for camera's movements in 2D world for Libgdx FrameWork
