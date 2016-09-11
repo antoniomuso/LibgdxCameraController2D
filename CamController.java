@@ -36,7 +36,7 @@ public class CamController
     }
 
     /**
-     * Move camera to x, y world 
+     * Move camera to x, y world coord.
      * @param x
      * @param y
      */
