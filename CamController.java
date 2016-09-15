@@ -1,4 +1,3 @@
-package it.uniroma1.lcl.crucy.GamePlay.Input.cameraController;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.OrthographicCamera;
